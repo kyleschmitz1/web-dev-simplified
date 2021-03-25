@@ -134,6 +134,7 @@ html, body {
     font-weight: lighter;
     padding-left: 2em;
     padding-right: 2em;
+    cursor: not-allowed;
 }
 
 .btn-header:hover{
@@ -149,6 +150,7 @@ html, body {
     padding: 0;
     width: 100px;
     height: 100px;
+    cursor: not-allowed;
 }
 
 .tour-row{
