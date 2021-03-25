@@ -19,7 +19,7 @@ html, body {
 }
 
 .nav a{
-    padding: .5em;
+    padding: .5em .5em .07em .5em;
     color: white;
     text-decoration: none;
 }
